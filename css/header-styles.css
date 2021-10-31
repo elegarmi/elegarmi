@@ -1,0 +1,10 @@
+#menu-and-cart {
+    display: flex;
+    align-items: center;
+}
+
+#menu-and-cart i.fa.fa-shopping-cart {
+    color: #FF6D1C;
+    font-size: 25px;
+    padding-left: 10px;
+}
