@@ -31,7 +31,7 @@
     </a>
     &emsp; 
     <a href="https://www.detallinos.com/">
-      <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png" alt="Peronal project"/>
+      <img width="40px" src="https://raw.githubusercontent.com/github/explore/ac83ae6ab1d3c5c5122805caa44d7fa2b9ca5be3/topics/web/web.png" alt="Peronal project"/>
     </a>
     &emsp; 
     <a href="https://www.instagram.com/detallinos/">
@@ -70,7 +70,7 @@
   </a>
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
-  <img alt="Java" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img alt="Java" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   </a>
   &emsp;
   <a href="https://sass-lang.com/" target="_blank"> 
@@ -85,8 +85,16 @@
     <img alt="Vue.js" width="60px" src="https://camo.githubusercontent.com/bd55955f84d6ea390afc5ea84aadbbe6b643ef698bdbb2593bc0fb2246395ae3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7675656a732f7675656a732d6f726967696e616c2d776f72646d61726b2e737667">
   </a>
   &emsp;
+  <a href="https://vuetifyjs.com/en/" target="_blank"> 
+    <img alt="Vuetify" width="60px" src="https://avatars.githubusercontent.com/u/22138497?s=200&v=4">
+  </a>
+  &emsp;
   <a href="https://laravel.com/" target="_blank"> 
     <img alt="Laravel" width="60px" src="https://camo.githubusercontent.com/9d0bc75ece06bd0c74d0e9bc3161e012c70c5aa2782f372912c87c84360ad138/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c61726176656c2f6c61726176656c2d706c61696e2d776f72646d61726b2e737667">
+  </a>
+  &emsp;
+  <a href="#">
+    <img alt="Visual Studio Code" width="60px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png">
   </a>
 </p>
 
@@ -94,7 +102,7 @@
 
 ## 📊 Github Stats
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary align="center"><b>💻 GitHub Profile Stats</b></summary>
 
   <br/>
 
@@ -105,7 +113,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elegarmi&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chalk" alt="elegarmi" height="192px"/></p>
   </p>
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <summary align="center"><b>⚡ Recent GitHub Activity</b></summary>
 
   <br/>
 
