@@ -103,7 +103,7 @@
 
 ## 📊 Github Stats
 
-  <b align="center">💻 GitHub Profile Stats</b>
+  <p align="center"><b>💻 GitHub Profile Stats</b></p>
 
   <br/>
 
@@ -114,7 +114,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elegarmi&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chalk" alt="elegarmi" height="192px"/></p>
   </p>
 
-  <b align="center">⚡ Recent GitHub Activity</b>
+  <p align="center"><b>⚡ Recent GitHub Activity</b></p>
 
   <br/>
 
