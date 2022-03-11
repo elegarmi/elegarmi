@@ -19,6 +19,7 @@
 - :woman_student: `Fullstack development student` at Factoría F5 Bootcamp
 - :trophy: Factoría F5 `Hackathon` Finalist (2022) | Participant (survivor :rofl:) at the First International `Femhack` by Nuwe (2022)
 - :computer: I like to explore new technologies and develop software solutions
+- :eyes: I’m currently open for: `An intern job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/146AyfDijLQ1KJ3KNT50G_fDLpnngJDS_/view?usp=sharing).
 - :brain: Always `learning new things` for feeding my mind
 - :revolving_hearts: In my free time I like to learn new things about techologies, play music (I'm a professional percussionist), any kind of art, stationery, movies, water sports, pilates...
 
@@ -143,4 +144,5 @@
 <br>
 [Readme example](https://github.com/7oSkaaa)
 
-Last Edited on: 08/03/2022
+Last Edited on: 
+11/03/2022
