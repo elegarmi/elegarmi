@@ -32,7 +32,7 @@
     </a>
     &emsp; 
     <a href="https://www.detallinos.com/">
-      <img width="40px" src="https://raw.githubusercontent.com/github/explore/ac83ae6ab1d3c5c5122805caa44d7fa2b9ca5be3/topics/web/web.png" alt="Peronal project"/>
+      <img width="40px" src="https://icon-library.com/images/www-icon-png/www-icon-png-5.jpg" alt="Peronal project"/>
     </a>
     &emsp; 
     <a href="https://www.instagram.com/detallinos/">
