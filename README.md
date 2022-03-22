@@ -142,7 +142,7 @@
 ### Readme credits: 
 [Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 <br>
-[Readme example](https://github.com/7oSkaaa)
+[Readme examples](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
 
 Last Edited on: 
-11/03/2022
+22/03/2022
