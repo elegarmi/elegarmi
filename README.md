@@ -10,7 +10,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">  About me
 
-<img width="20%" align="right" alt="Unicorn coder" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<img width="25%" align="right" alt="Unicorn coder" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 - :school: I'm a `senior technician` in graphic design and editorial production
 - :woman_student: `Fullstack development student` at Factoría F5 Bootcamp
