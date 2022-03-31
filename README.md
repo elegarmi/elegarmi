@@ -10,6 +10,8 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">  About me
 
+<img width="40%" align="right" alt="Unicorn coder" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+
 - :school: I'm a `senior technician` in graphic design and editorial production
 - :woman_student: `Fullstack development student` at Factoría F5 Bootcamp
 - :trophy: Factoría F5 `Hackathon` Finalist (2022) | Participant (survivor :rofl:) at the First International `Femhack` by Nuwe (2022)
@@ -17,10 +19,6 @@
 - :eyes: I’m currently open for: `An intern job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/19Y--udPP-_Kwq5WW27DOGnz-AykDgqa3/).
 - :brain: Always `learning new things` for feeding my mind
 - :revolving_hearts: In my free time I like to learn new things about techologies, play music (I'm a professional percussionist), any kind of art, stationery, movies, water sports, pilates...
-
-<p align="center">
-    <img width="200px" alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
-</p>
 
 <br>
 
