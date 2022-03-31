@@ -132,10 +132,19 @@
 
   <br/>
 
-  <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=elegarmi" alt="elegarmi" />
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=elegarmi&layout=compact&theme=chalk" alt="elegarmi profile trophies" />
+    </a>
   </p>
+
 </details>
+
+-----
+
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=elegarmi" alt="elegarmi" /> 
+</p>
 
 -----
 ### Readme credits: 
