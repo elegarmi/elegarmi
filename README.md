@@ -103,7 +103,8 @@
 
 ## 📊 Github Stats
 
-  <p align="center"><b>💻 GitHub Profile Stats</b></p>
+<details>
+  <summary>💻 GitHub Profile Stats</summary>
 
   <br/>
 
@@ -113,30 +114,28 @@
   <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elegarmi&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chalk" alt="elegarmi" height="192px"/></p>
   </p>
+</details>
 
-  <p align="center"><b>⚡ Recent GitHub Activity</b></p>
 
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  
   <br/>
 
   <p align="center">
     <a href="https://github.com/elegarmi"><img alt="elegarmi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elegarmi&custom_title=elegarmi's%20Contribution%20Graph&theme=react-dark" /></a>
   </p>
+</details>
 
-<br/>
+<details>
+  <summary>:trophy: Git profile Trophies</summary>
 
-## :trophy: Git profile Trophies
+  <br/>
 
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=elegarmi&layout=compact&theme=chalk" alt="elegarmi profile trophies" />
-    </a>
-</p>
-
------
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=elegarmi" alt="elegarmi" /> 
-</p>
+  <p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=elegarmi" alt="elegarmi" />
+  </p>
+</details>
 
 -----
 ### Readme credits: 
@@ -145,4 +144,4 @@
 [Readme examples](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
 
 Last Edited on: 
-22/03/2022
+01/04/2022
