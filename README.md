@@ -13,7 +13,7 @@
 <img width="25%" align="right" alt="Unicorn coder" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 - :school: I'm a `senior technician` in graphic design and editorial production
-- :woman_student: `Fullstack development student` at Factoría F5 Bootcamp
+- :woman_student: `Junior fullstack developer` trained by Factoría F5 Bootcamp
 - :trophy: Factoría F5 `Hackathon` Finalist (2022) | Participant (survivor :rofl:) at the First International `Femhack` by Nuwe (2022)
 - :computer: I like to explore new technologies and develop software solutions
 - :eyes: I’m currently open for: `An intern job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/19Y--udPP-_Kwq5WW27DOGnz-AykDgqa3/).
