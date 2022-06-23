@@ -8,7 +8,7 @@
   </a>
 </p>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" max-width="10px">  About me
+## <span max-width="10px"><img alt="hi-star" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif"></span> About me
 
 <img width="25%" align="right" alt="Unicorn coder" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
