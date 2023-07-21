@@ -8,6 +8,10 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
 ## <img alt="hi-star" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"> About me
 
 <img width="25%" align="right" alt="Unicorn coder" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
