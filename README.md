@@ -3,13 +3,9 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+graphic+design+technician;Fullstack+developer;Factoría+F5+Hackathon+Finalist;Competitive+Programmer;Always%20learning%20new%20things&center=true&width=50&height=50">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=200&width=440&separator=%3C&lines=Fullstack+developer%3CFrontend+lover+&hearts;%3CFactor%C3%ADa+F5+Hackathon+Finalist%3CCompetitive+Programmer%3CSenior+graphic+design+technician%3CAlways+learning+new+things">
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 ## <img alt="hi-star" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"> About me
