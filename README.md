@@ -40,7 +40,7 @@
 
 <br>
 
-## <img alt="hammer-wrench" src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="20"> My Skills
+## <img alt="hammer-wrench" src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40"> My Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -53,7 +53,7 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" style="position: relative; top: 6px;"> Github Stats
 
 <details>
   <summary>💻 GitHub Profile Stats</summary>
