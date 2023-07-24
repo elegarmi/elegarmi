@@ -47,7 +47,7 @@
     <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,git,html,java,js,jquery,laravel,nodejs,php,sass,ts,vite,vue" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,figma,git,idea,ai,laravel,ps,postman,vite,vscode,wordpress" />
+    <img src="https://skillicons.dev/icons?i=eclipse,figma,idea,ai,ps,postman,vscode,wordpress" />
   </a>
 </p>
 
