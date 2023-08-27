@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,git,html,java,js,jquery,laravel,nodejs,php,sass,ts,vite,vue" />
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,git,html,java,jest,js,jquery,laravel,nodejs,php,sass,ts,vite,vue" />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=eclipse,figma,idea,ai,ps,postman,vscode,wordpress" />
@@ -106,4 +106,4 @@
 [Readme examples](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
 
 Last Edited on: 
-24/07/2023
+27/08/2023
